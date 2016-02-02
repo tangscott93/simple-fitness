@@ -5,7 +5,7 @@ var app = express();
 app.set('port', process.env.PORT || 5000);
 
 app.get('/', function(req, res) {
-    res.send('Simply-Fit is running.')
+    res.send('Simple Fitness is running.')
 });
 
 app.listen(app.get('port'), function() {

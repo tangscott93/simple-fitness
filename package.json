@@ -1,5 +1,5 @@
 {
-  "name": "simply_fit",
+  "name": "simple-fitness",
   "version": "1.0.0",
   "description": "SimplyFit is an easy to use web application to help keep track of your fitness progress.",
   "main": "app.js",
